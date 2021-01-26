@@ -1,4 +1,4 @@
-def gimmeHalf(x, y):
+def gimmieHalf(x, y):
     if x % y == y * 0.5:
         return True
     else:
